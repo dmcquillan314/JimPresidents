@@ -1,0 +1,44 @@
+D Washington George 02 22 1732 12 14 1799 
+D Adams John 10 30 1735 07 04 1826 
+D Jefferson Thomas 04 13 1743 07 04 1826 
+D Madison James 03 16 1751 06 28 1836 
+D Monroe James 04 28 1758 07 04 1851 
+D Adams John 07 11 1767 02 23 1848 
+D Jackson Andrew 03 15 1767 06 08 1845 
+D VanBuren Martin 12 05 1782 07 24 1862 
+D Harrison William 02 09 1773 04 04 1841 
+D Tyler John 03 29 1790 01 18 1862 
+D Polk James 11 02 1795 06 15 1849 
+D Taylor Zachary 11 24 1784 07 09 1850 
+D Fillmore Millard 01 07 1800 03 08 1874 
+D Pierce Franklin 11 23 1804 10 08 1869 
+D Buchanan James 04 23 1791 06 01 1868 
+D Lincoln Abraham 02 12 1809 04 15 1865
+D Davis Jefferson 06 03 1808 12 06 1889
+D Johnson Andrew 12 29 1808 07 31 1875
+D Grant Ulysses 04 27 1822 07 23 1885
+D Hayes Rutherford 10 04 1822 01 17 1893
+D Garfield James 11 19 1831 09 19 1881
+D Arthur Chester 10 05 1830 11 18 1886
+D Cleveland Grover 03 18 1837 06 24 1908
+D Harrison Benjamin 08 20 1833 03 13 1901
+D McKinley William 01 29 1843 09 14 1901
+D Roosevelt Theodore 10 27 1858 01 16 1919
+D Taft William 09 15 1857 03 08 1930
+D Wilson Woodrow 12 28 1856 02 03 1924
+D Harding Warren 11 02 1865 08 02 1923
+D Coolidge Calvin 07 04 1872 01 05 1933
+D Hoover Herbert 08 10 1874 10 20 1964
+D Roosevelt Franklin 01 30 1882 04 12 1945
+D Truman Harry 05 08 1884 12 26 1972
+D Eisenhower Dwight 10 14 1890 03 28 1969
+D Kennedy John 05 29 1917 11 22 1963
+D Johnson Lyndon 08 27 1908 01 22 1973
+D Nixon Richard 01 09 1913 04 22 1994
+D Ford Gerald 07 14 1913 12 26 2006
+A Carter Jimmy 10 01 1924
+D Reagan Ronald 02 06 1911 06 05 2004
+A Bush George 06 12 1924 
+A Clinton Bill 08 19 1946
+A Bush GeorgeW 07 06 1946
+A Obama Barack 08 04 1961
